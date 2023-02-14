@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#292b3d</color>
+    <color name="colorAccent">#C55C76</color>
+    <color name="grayLight">#fafafa</color>
+    <color name="startBlue">#09c6df</color>
+    <color name="endBlue">#0bcce6</color>
+    <color name="toolbarText">#404042</color>
+    <color name="DeepPurple">#7c4dff</color>
+    <color name="MaterialYellow">#ffb300</color>
+    <color name="MaterialGreen">#00bfa5</color>
+    <color name="PinkAccent">#ff4081</color>
+    <color name="LightGrayLine">#ededed</color>
+    <color name="TextGray">#5C5F5F</color>
+    <color name="TextLightGray">#888B8D</color>
+</resources>

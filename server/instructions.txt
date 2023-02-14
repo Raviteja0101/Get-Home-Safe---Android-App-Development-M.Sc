@@ -1,0 +1,9 @@
+1. Install MySQL version 8.0 or above on your system.
+2. Import database get_home_safe_04052019.sql from db_dumps folder.
+3. Install npm and node.js on your system from https://nodejs.org/en/download/.
+4. Go to server folder on your command line and run the following commands in order:
+    npm install
+    npm install nodemon -g
+5. Run the following command to see if the server is running:
+    nodemon app.js
+6. Visit http://localhost:3000 on your browser and you should see a status on command line that server is running and Hello World on your browser window.

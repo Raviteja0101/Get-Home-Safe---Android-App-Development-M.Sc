@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GetHomeSafe</string>
+    <string name="action_settings">Settings</string>
+    <string name="pause">Pause</string>
+    <string name="text_reasonpause">text_ReasonPause</string>
+</resources>

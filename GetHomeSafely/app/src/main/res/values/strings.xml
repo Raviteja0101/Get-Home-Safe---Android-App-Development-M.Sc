@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GoHomeSafely</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="normal_map">Normal Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <string name="satellite_map">Satellite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+    <string name="no_map">No Map</string>
+    <string name="google_maps_API_key">AIzaSyAkuW_0VdZanRyOEInyJBcppFUyaob65N4</string>
+    <string name="register_device">Register Device</string>
+    <string name="gohomesafely">GoHomeSafely</string>
+    <string name="check_all_your_information">Check All Your Information</string>
+    <string name="setting">Setting</string>
+    <string name="about">About</string>
+    <string name="journey">Journey</string>
+    <string name="start_a_new_journey">Start a new Journey</string>
+    <string name="add_follower">Add Follower</string>
+    <string name="invite_people_to_follow_the_journey">Invite people to follow the journey</string>
+    <string name="logout">Logout</string>
+    <string name="edit_followers">Edit Followers</string>
+    <string name="hope_see_you_soon">Hope see you soon!</string>
+    <string name="change_your_followers_list">Edit your Follower list</string>
+    <string name="todo">TODO</string>
+</resources>

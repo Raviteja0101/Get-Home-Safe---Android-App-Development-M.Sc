@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:design:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/d103df9c25b6010cbb62d393bed740af/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d65f68f99f0e3eaca72d765df830a5e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/40e650036fcdd2eb8dc352f8ee4f1ff1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/62f7f8e5813812fd8c3067c1e8e66963/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/33b548b5f6558ae108b39ee14eccd36d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/bc1e90726df4d76a412d3912a8497e47/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/981922a42e0b0e90d562b9423ec6af9b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/599aabb39077d9617903e53a0b2805c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/5d57a069b498856a108d675664f11983/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/ab0da530f27a1bcaeb1faf6c3048cb49/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ce032310a6ed3e1b5cc5805138ff003e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5e42efdcb0ebeef851a3553805ea31d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/08edcae1a9829130b5832ccce4536fe9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7313f092850d71bd914eb0d129c5738c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/83dc6ab25416039cb6397054474f2d8c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/1938e582bb8a85bd110edf60e4358e18/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/81ac9e28c8c7a3520150f56de08fd3dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5fee43a144b8e3de9b7e5d61b050d233/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c3de001d7f78c5b40a3054dc33c7f81a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/1a98725fcaa85cdc9f882a8882a84cf6/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8e90eebfed5604ccc36bba0ab97763f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/a676cdc0afd6858d3dc7afb1b1a88982/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f4167391841f77dcd4dc619fd79cb50b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/3fa46ab7e1f1022ef1f3549b92ac6436/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/6e48ad79bad2d4b881059e9100b582f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/5819798d5758adf9df74264a5e80e932/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9fc0a749ba06f9a0e9fc142ac579db17/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9e50d65556f8e5d6ea91fa8155491480/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/50ddcdb15483a462f2abca9e765ae5ca/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b0002550dcb137cfe586a0ef42fea756/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/08e055eec3b792a63564a5ab5847c25f/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support:design:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/d103df9c25b6010cbb62d393bed740af/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/d103df9c25b6010cbb62d393bed740af/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/40e650036fcdd2eb8dc352f8ee4f1ff1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/40e650036fcdd2eb8dc352f8ee4f1ff1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c3de001d7f78c5b40a3054dc33c7f81a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c3de001d7f78c5b40a3054dc33c7f81a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/1a98725fcaa85cdc9f882a8882a84cf6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/1a98725fcaa85cdc9f882a8882a84cf6/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c3de001d7f78c5b40a3054dc33c7f81a/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:11:9-52
+activity#com.example.gethomesafe.Test
+ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:12:9-51
+	android:name
+		ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:12:19-39
+activity#com.example.gethomesafe.Login_Form
+ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:13:9-48
+	android:name
+		ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:13:19-45
+activity#com.example.gethomesafe.Signup_Form
+ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:14:9-49
+	android:name
+		ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:14:19-46
+activity#com.example.gethomesafe.MainActivity
+ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/d103df9c25b6010cbb62d393bed740af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/d103df9c25b6010cbb62d393bed740af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d65f68f99f0e3eaca72d765df830a5e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d65f68f99f0e3eaca72d765df830a5e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/40e650036fcdd2eb8dc352f8ee4f1ff1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/40e650036fcdd2eb8dc352f8ee4f1ff1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/62f7f8e5813812fd8c3067c1e8e66963/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/62f7f8e5813812fd8c3067c1e8e66963/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/33b548b5f6558ae108b39ee14eccd36d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/33b548b5f6558ae108b39ee14eccd36d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/bc1e90726df4d76a412d3912a8497e47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/bc1e90726df4d76a412d3912a8497e47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/981922a42e0b0e90d562b9423ec6af9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/981922a42e0b0e90d562b9423ec6af9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/599aabb39077d9617903e53a0b2805c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/599aabb39077d9617903e53a0b2805c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/5d57a069b498856a108d675664f11983/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/5d57a069b498856a108d675664f11983/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/ab0da530f27a1bcaeb1faf6c3048cb49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/ab0da530f27a1bcaeb1faf6c3048cb49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ce032310a6ed3e1b5cc5805138ff003e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ce032310a6ed3e1b5cc5805138ff003e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5e42efdcb0ebeef851a3553805ea31d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5e42efdcb0ebeef851a3553805ea31d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/08edcae1a9829130b5832ccce4536fe9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/08edcae1a9829130b5832ccce4536fe9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7313f092850d71bd914eb0d129c5738c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7313f092850d71bd914eb0d129c5738c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/83dc6ab25416039cb6397054474f2d8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/83dc6ab25416039cb6397054474f2d8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/1938e582bb8a85bd110edf60e4358e18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/1938e582bb8a85bd110edf60e4358e18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/81ac9e28c8c7a3520150f56de08fd3dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/81ac9e28c8c7a3520150f56de08fd3dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5fee43a144b8e3de9b7e5d61b050d233/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5fee43a144b8e3de9b7e5d61b050d233/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c3de001d7f78c5b40a3054dc33c7f81a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c3de001d7f78c5b40a3054dc33c7f81a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/1a98725fcaa85cdc9f882a8882a84cf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/1a98725fcaa85cdc9f882a8882a84cf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8e90eebfed5604ccc36bba0ab97763f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8e90eebfed5604ccc36bba0ab97763f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/a676cdc0afd6858d3dc7afb1b1a88982/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/a676cdc0afd6858d3dc7afb1b1a88982/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f4167391841f77dcd4dc619fd79cb50b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f4167391841f77dcd4dc619fd79cb50b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/3fa46ab7e1f1022ef1f3549b92ac6436/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/3fa46ab7e1f1022ef1f3549b92ac6436/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/6e48ad79bad2d4b881059e9100b582f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/6e48ad79bad2d4b881059e9100b582f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/5819798d5758adf9df74264a5e80e932/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/5819798d5758adf9df74264a5e80e932/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9fc0a749ba06f9a0e9fc142ac579db17/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9fc0a749ba06f9a0e9fc142ac579db17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9e50d65556f8e5d6ea91fa8155491480/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9e50d65556f8e5d6ea91fa8155491480/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/50ddcdb15483a462f2abca9e765ae5ca/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/50ddcdb15483a462f2abca9e765ae5ca/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b0002550dcb137cfe586a0ef42fea756/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b0002550dcb137cfe586a0ef42fea756/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/08e055eec3b792a63564a5ab5847c25f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Cecilia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/08e055eec3b792a63564a5ab5847c25f/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Cecilia/AndroidStudioProjects/GetHomeSafe/app/src/main/AndroidManifest.xml

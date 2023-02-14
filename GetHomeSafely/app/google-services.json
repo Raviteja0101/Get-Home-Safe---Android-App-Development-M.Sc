@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "958080425712",
+    "firebase_url": "https://get-home-safe-fcm.firebaseio.com",
+    "project_id": "get-home-safe-fcm",
+    "storage_bucket": "get-home-safe-fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958080425712:android:f0c8231c98a50cd3",
+        "android_client_info": {
+          "package_name": "com.example.gethomesafely"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958080425712-eenu3kg2gg3i8odqoldn6nlv09j6jgj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbkWv_2FhYP6_-74rQVDV6IcDa7_Dnt1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958080425712-eenu3kg2gg3i8odqoldn6nlv09j6jgj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

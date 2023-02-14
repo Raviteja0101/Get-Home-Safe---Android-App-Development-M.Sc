@@ -1,0 +1,27 @@
+{
+  "name": "isee2019-streichholz",
+  "version": "1.0.0",
+  "description": "Get Home Safely Backend API",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DBSE-teaching/isee2019-streichholz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DBSE-teaching/isee2019-streichholz/issues"
+  },
+  "homepage": "https://github.com/DBSE-teaching/isee2019-streichholz#readme"
+}
